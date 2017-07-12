@@ -1,0 +1,21 @@
+<section>
+  <p>
+    calendario works!
+  </p>
+  <table>
+    <thead>
+      <th>Date</th>
+      <th>eventLink</th>
+      <th>eventName</th>
+      <th>place</th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cita of calendar">
+        <td>{{cita.date}}</td>
+        <td>{{cita.eventLink}}</td>
+        <td>{{cita.eventName}}</td>
+        <td>{{cita.place}}</td>
+      </tr>
+    </tbody>
+  </table>
+</section>

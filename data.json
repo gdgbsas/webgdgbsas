@@ -1,0 +1,125 @@
+{
+"equipo": [
+    {
+        "nombre": "Juan Irungaray",
+        "grupo": "gdg",
+        "descripcion": "Developer Relations Program Manager @ Google",
+        "descripcion_detallada": "Descripción detallada Juan",
+        "foto": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALiAAAAJDQ0MWJlY2Q4LTk3ZWQtNGVhNC05YWUzLWIwNDlhZTEyNTM4MQ.jpg",
+        "redes": [
+            {
+                "nombre": "tweeter",
+                "link": "https://twitter.com/jirungaray"
+            },
+            {
+                "nombre": "github",
+                "link": "https://github.com/jirungaray"
+            },
+            {
+                "nombre": "linkedin",
+                "link": "https://ar.linkedin.com/in/juanirungaray"
+            },
+            {
+                "nombre": "g+",
+                "link": "https://plus.google.com/+JuanIrungaray"
+            }
+        ]
+    },
+    {
+        "nombre": "Juan Baiutti",
+        "grupo": "gdg",
+        "descripcion": "Project Manager. Ingeniero en Informática.",
+        "descripcion_detallada": "Descripción detallada Juan",
+        "foto": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/00a/083/0a9cd28.jpg",
+        "redes": [
+            {
+                "nombre": "tweeter",
+                "link": "https://twitter.com/juanmab"
+            },
+            {
+                "nombre": "linkedin",
+                "link": "https://ar.linkedin.com/in/jmbaiutti"
+            },
+            {
+                "nombre": "g+",
+                "link": "https://plus.google.com/+JuanmaBaiutti/"
+            }
+        ]
+    },
+    {
+        "nombre": "Gustavo Cardelle",
+        "grupo": "gdg",
+        "descripcion": "Consultor IT",
+        "descripcion_detallada": "Descripción detallada Gustavo",
+        "foto": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/181/233/063eb14.jpg",
+        "redes": [
+            {
+                "nombre": "tweeter",
+                "link": "https://twitter.com/gu5tavo71"
+            },
+            {
+                "nombre": "linkedin",
+                "link": "https://ar.linkedin.com/in/gustavocardelle/en"
+            }
+        ]
+    },
+    {
+        "nombre": "Jorge Cano",
+        "grupo": "gde",
+        "descripcion": "Google Developer Expert",
+        "descripcion_detallada": "Descripción detallada Jorge",
+        "foto": "https://lh3.googleusercontent.com/-gHF1P0UDZ3M/VgxQlwE0rlI/AAAAAAAALAM/0Y1uz_iz4wMjyYrtzfNb_w5nI6EE6A2_QCEw/w280-h280-p/DSC_0131.JPG",
+        "redes": [
+            {
+                "nombre": "tweeter",
+                "link": "https://twitter.com/jorgeucano"
+            },
+            {
+                "nombre": "github",
+                "link": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fjorgeucano&sa=D&sntz=1&usg=AFQjCNHnDmNLS1E2WPsrJGyUXOUXYMQZ5A"
+            },
+            {
+                "nombre": "linkedin",
+                "link": "https://ar.linkedin.com/in/jorge-cano-06441015/en"
+            },
+            {
+                "nombre": "g+",
+                "link": "https://plus.google.com/+JorgeCanojc"
+            },
+            {
+                "nombre": "youtube",
+                "link": "https://www.youtube.com/channel/UCdp9sM22GW5uIOaU9eZ7n6w"
+            }
+        ]
+    },
+    {
+        "nombre": "Yury Camacho",
+        "grupo": "gde",
+        "descripcion": "Mobile Tech lead",
+        "descripcion_detallada": "Descripción detallada Yuri",
+        "foto": "https://scontent.xx.fbcdn.net/t31.0-8/882626_10201795636005358_1820849145_o.jpg",
+        "redes": [
+            {
+                "nombre": "tweeter",
+                "link": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fcamachoyury&sa=D&sntz=1&usg=AFQjCNGbFXTJqm5PJClZAiwyJLgjANmCVw"
+            },
+            {
+                "nombre": "github",
+                "link": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcamachoyury&sa=D&sntz=1&usg=AFQjCNGLPip9QEr48Zqr6HfTgghopWPXAA"
+            },
+            {
+                "nombre": "linkedin",
+                "link": "https://ar.linkedin.com/in/camachoyury"
+            },
+            {
+                "nombre": "g+",
+                "link": "https://plus.google.com/+YuryCamacho"
+            }
+        ]
+    }
+],
+"live": {
+        "nombre": "En directo desde Area 3",
+        "link": "https://www.youtube.com/watch?v=K3dXnyQjnx8"
+    }
+}

@@ -1,0 +1,27 @@
+<section>
+  <p>
+    equipo works!
+  </p>
+  <table>
+    <thead>
+      <th>nombre</th>
+      <th>grupo</th>
+      <th>foto</th>
+      <th>descripcion</th>
+      <th>descripcion detallada</th>
+      <th>redes</th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let miembro of equipo">
+        <td>{{miembro.nombre}}</td>
+        <td>{{miembro.grupo}}</td>
+        <td>{{miembro.foto}}</td>
+        <td>{{miembro.descripcion}}</td>
+        <td>{{miembro.descripcion_detallada}}</td>
+        <td>
+          <p *ngFor="let red of miembro.redes">{{red.nombre}}: {{red.link}}</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
