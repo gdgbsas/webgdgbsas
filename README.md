@@ -1,6 +1,6 @@
 # Sitio web de gdgbsas
 
-Para que la web pueda obtener los datos del equipo o de una transmisión en vivo insertar el contenido del archivo `data.json`.
+Para que la web pueda obtener los datos del equipo o de una transmisión en vivo insertar el contenido del archivo `data.json` en Firebase.
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
